@@ -35,10 +35,11 @@ The distribution tree contains:
     
 * matlab_sim/ (source files for the ASP management plane optimization problem)	
 
-    - maim_tomm.m       (main file for the clustering-based ASP optimization solution)
-    
-    - main_tomm_opt.m   (main file for the integer linear programming based ASP optimization solution)
-    
+    ```
+    maim_tomm.m       (main file for the clustering-based ASP optimization solution)
+
+    main_tomm_opt.m   (main file for the integer linear programming based ASP optimization solution)
+    ```
     
 * ns3_sim/ (source files for the ASP data plane optimization problem)
 
@@ -46,8 +47,10 @@ The distribution tree contains:
     
     - ns-3.25/ (source files for the ASP data plane optimization evaluation)
     
-        a) .m       (matlab source files from the ASP mangement optimization, that are used for service deployment)
+        - *.m      (matlab source files from the ASP mangement optimization, that are used for service deployment)
         
-        b) scratch/ (c++ source files for the ASP data plane simulation and optimization)
+        - scratch/ (c++ source files for the ASP data plane simulation and optimization)
         
+            ```
             lcd_simulation_ns3.cc (main file for the ASP data plane simulation and optimization)
+            ```
