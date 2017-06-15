@@ -32,23 +32,23 @@ The distribution tree contains:
 
 * README
 
-	** this file
+	- this file
     
 * matlab_sim/ (source files for the ASP management plane optimization problem)	
 
-    ** maim_tomm.m       (main file for the clustering-based ASP optimization solution)
+    - maim_tomm.m       (main file for the clustering-based ASP optimization solution)
     
-    ** main_tomm_opt.m   (main file for the integer linear programming based ASP optimization solution)
+    - main_tomm_opt.m   (main file for the integer linear programming based ASP optimization solution)
     
     
 * ns3_sim/ (source files for the ASP data plane optimization problem)
 
-    ** BRITE/   (source files for the Brite topology generator that is used to generate realistic Internet topologies)
+    - BRITE/   (source files for the Brite topology generator that is used to generate realistic Internet topologies)
     
-    ** ns-3.25/ (source files for the ASP data plane optimization evaluation)
+    - ns-3.25/ (source files for the ASP data plane optimization evaluation)
     
-        ** .m       (matlab source files from the ASP mangement optimization, that are used for service deployment)
+        a) .m       (matlab source files from the ASP mangement optimization, that are used for service deployment)
         
-        ** scratch/ (c++ source files for the ASP data plane simulation and optimization)
+        b) scratch/ (c++ source files for the ASP data plane simulation and optimization)
         
-            *** lcd_simulation_ns3.cc (main file for the ASP data plane simulation and optimization)
+            + lcd_simulation_ns3.cc (main file for the ASP data plane simulation and optimization)
