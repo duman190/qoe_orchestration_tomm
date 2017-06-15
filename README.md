@@ -7,7 +7,7 @@ satisfactory QoE service delivery to users with limited by the ASP’s cost budg
 To further avoid ILP NP-hardness, we also devise a heuristic algorithm for the management plane problem, which is based on a novel Possibilistic C-Means (PCM) infrastructure clustering algorithm that takes into account multiple SLO path constraints. 
 
 * To address intractabilities for the ASP 'data plane' optimization (applications services are operational with real user access) that enhances satisfactory user QoE delivery, we devise a model that captures dynamics in the interplay between the three Q’s i.e., infrastructure Quality of Service (QoS) and user-side Quality of Application (QoA) that cater to the user QoE (3Q). We use a heuristic algorithm that leverages a Least-Cost Disruptive (LCD) decision tree that manages
-our 3Q interplay model to decide on suitable adaptations for handling trade-os between (a) satisfactory user QoE delivery, (b) cost of adaptations, and (c) user disruption level factors caused by these adaptations.
+our 3Q interplay model to decide on suitable adaptations for handling trade-offs between (a) satisfactory user QoE delivery, (b) cost of adaptations, and (c) user disruption level factors caused by these adaptations.
 
 
 Authors
