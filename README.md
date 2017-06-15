@@ -1,4 +1,4 @@
-# QoE-oriented Cloud Service Orchestration
+# QoE-oriented Cloud Service Orchestration for Application Providers
 
 In this project, we address the general Application Service Provider (ASP) optimization problem — maximization of the
 satisfactory QoE service delivery to users with limited by the ASP’s cost budget. We split this problem into the ASP 'management plane' and the 'data plane' optimization sub-problems, respectively. 
