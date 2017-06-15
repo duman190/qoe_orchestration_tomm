@@ -1,4 +1,4 @@
-QoE-oriented Cloud Service Orchestration
+QoE-oriented Cloud Service Orchestration  
 for Application Providers
 =================
 
