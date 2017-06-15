@@ -15,7 +15,7 @@ Authors
 2017 VIMAN laboratory, Computer Science Department, University of Missouri-Columbia.
 
 ```
-Updated June 14, 2017 by Dmitrii Chemodanov
+Updated June 15, 2017 by Dmitrii Chemodanov
 ```
 
 All feedback appreciated to dycbt4@mail.missouri.edu 
