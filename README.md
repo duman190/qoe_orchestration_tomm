@@ -51,4 +51,4 @@ The distribution tree contains:
         
         b) scratch/ (c++ source files for the ASP data plane simulation and optimization)
         
-            + lcd_simulation_ns3.cc (main file for the ASP data plane simulation and optimization)
+            lcd_simulation_ns3.cc (main file for the ASP data plane simulation and optimization)
